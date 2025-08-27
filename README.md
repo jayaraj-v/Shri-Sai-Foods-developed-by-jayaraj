@@ -26,8 +26,7 @@ This repository contains the **official website project for Sri Sai Foods**, a p
 - **JavaScript (for interactivity and animations)**  
 - **Bootstrap / Custom CSS** (if used)  
 
-## 📷 Preview  
-(Add screenshots of your website here to give visitors a visual idea of the project.)  
+## 📷 Preview  : https://shri-sai-foods.netlify.app/
 
 ## 📍 About Sri Sai Foods  
 Sri Sai Foods is a well-known restaurant in **Karur, Tamil Nadu**, serving authentic **South Indian cuisine** with love and tradition. This website was developed to help the restaurant expand its digital presence and connect better with customers.  
@@ -37,4 +36,5 @@ This project is created for Sri Sai Foods. If you wish to contribute ideas or im
 
 ## 📫 Contact  
 For any queries regarding this project, you can reach me at:  
-**[Your Email or LinkedIn/GitHub Profile]**  
+**https://github.com/jayaraj-v**  
+
